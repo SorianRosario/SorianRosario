@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SorianRosario.
+- 👀 I’m interested in desarrollo web.
+- 🌱 I’m currently learning desarrollo web fullstack.
+- 📫 How to reach me [linkedIn : https://www.linkedin.com/in/mois%C3%A9s-rosario-449567300/][correo: mrr2k130@gmail.com]
